@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>DataAccessLayer</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>2f4252b2-bc4c-4601-a638-64867798d4e6</ProjectGuid>
+  <FullPath>C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\DataAccessLayer\DataAccessLayer.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\.sonarqube\out\2\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataAccessLayer.dll.RoslynCA.json|C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataAccessLayer.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\.sonarqube\out\2</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>

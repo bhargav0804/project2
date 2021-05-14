@@ -1,0 +1,34 @@
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataBase.Model.dll
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataBase.Repository.dll
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataBase.Model.pdb
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataBase.Repository.pdb
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataBase.Repository.dll.config
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataBase.Model.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataBase.Repository.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataBase.Model.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataBase.Repository.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\DataBase.Repository.dll.config
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

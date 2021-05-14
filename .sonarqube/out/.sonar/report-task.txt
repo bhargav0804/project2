@@ -1,0 +1,5 @@
+projectKey=MovieNex:master
+serverUrl=http://172.27.12.103:9005
+dashboardUrl=http://172.27.12.103:9005/dashboard/index/MovieNex:master
+ceTaskId=AXe-wQtDrwOFwxDTxV86
+ceTaskUrl=http://172.27.12.103:9005/api/ce/task?id=AXe-wQtDrwOFwxDTxV86

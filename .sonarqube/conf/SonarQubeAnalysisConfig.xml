@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AnalysisConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <SonarConfigDir>C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\.sonarqube\conf</SonarConfigDir>
+  <SonarOutputDir>C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\.sonarqube\out</SonarOutputDir>
+  <SonarBinDir>C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\.sonarqube\bin</SonarBinDir>
+  <SonarScannerWorkingDirectory>C:\Users\siddharthcha\source\repos\MovieNex\MovieNex</SonarScannerWorkingDirectory>
+  <HasBeginStepCommandLineCredentials>false</HasBeginStepCommandLineCredentials>
+  <SonarQubeHostUrl>http://172.27.12.103:9005/</SonarQubeHostUrl>
+  <SonarQubeVersion>5.6.7</SonarQubeVersion>
+  <SonarProjectKey>MovieNex:master</SonarProjectKey>
+  <SonarProjectVersion>1.0</SonarProjectVersion>
+  <SonarProjectName>MovieNexG2</SonarProjectName>
+  <AdditionalConfig>
+    <ConfigSetting Id="BuildUri" />
+    <ConfigSetting Id="TfsUri" />
+    <ConfigSetting Id="settings.file.path" Value="D:\Siddharth\SonarCube\SonarScanner\SonarQube.Analysis.xml" />
+  </AdditionalConfig>
+  <ServerSettings>
+    <Property Name="sonar.qualitygate">1</Property>
+    <Property Name="sonar.permission.template.default">default_template</Property>
+    <Property Name="sonar.pdf.password">FrTraining</Property>
+    <Property Name="sonar.pdf.username">admin</Property>
+    <Property Name="sonar.scm.disabled">true</Property>
+    <Property Name="sonar.core.id">20210217233045</Property>
+    <Property Name="sonar.core.version">5.6.7</Property>
+    <Property Name="sonar.core.startTime">17-02-2021 23:30:45</Property>
+    <Property Name="sonaranalyzer-cs.nuget.packageVersion">1.10.0</Property>
+    <Property Name="sonar.authenticator.ignoreStartupFailure">false</Property>
+    <Property Name="sonar.cs.ignoreHeaderComments">true</Property>
+    <Property Name="sonar.pdf.otherMetrics"> </Property>
+    <Property Name="sonar.less.file.suffixes">less</Property>
+    <Property Name="sonar.typescript.file.suffixes">.ts,.tsx</Property>
+    <Property Name="sonar.javascript.jQueryObjectAliases">$, jQuery</Property>
+    <Property Name="sonar.ce.maxLogsPerTask">10</Property>
+    <Property Name="sonar.cs.fxcop.fxCopCmdPath">C:/Program Files (x86)/Microsoft Visual Studio 12.0/Team Tools/Static Analysis Tools/FxCop/FxCopCmd.exe</Property>
+    <Property Name="sonar.forceAuthentication">false</Property>
+    <Property Name="sonar.analysis.mode">analysis</Property>
+    <Property Name="sonar.notifications.delay">60</Property>
+    <Property Name="sonar.allowUsersToSignUp">false</Property>
+    <Property Name="sonar.cs.fxcop.aspnet">false</Property>
+    <Property Name="sonar.authenticator.createUsers">true</Property>
+    <Property Name="sonaranalyzer-cs.ruleNamespace">SonarAnalyzer.CSharp</Property>
+    <Property Name="sonar.scss.file.suffixes">scss</Property>
+    <Property Name="sonar.web.file.suffixes">.html,.xhtml,.rhtml,.shtml</Property>
+    <Property Name="sonar.import_unknown_files">false</Property>
+    <Property Name="sonar.dbcleaner.hoursBeforeKeepingOnlyOneSnapshotByDay">24</Property>
+    <Property Name="sonar.css.file.suffixes">css</Property>
+    <Property Name="sonar.dbcleaner.cleanDirectory">true</Property>
+    <Property Name="sonar.cpd.cross_project">false</Property>
+    <Property Name="sonar.pdf.leakPeriod">previous_version</Property>
+    <Property Name="sonar.typescript.node">node</Property>
+    <Property Name="sonar.enableFileVariation">false</Property>
+    <Property Name="sonar.dbcleaner.weeksBeforeKeepingOnlyOneSnapshotByWeek">4</Property>
+    <Property Name="sonar.timemachine.period1">previous_version</Property>
+    <Property Name="sonar.timemachine.period2">previous_analysis</Property>
+    <Property Name="sonar.timemachine.period3">30</Property>
+    <Property Name="sonaranalyzer-cs.pluginKey">csharp</Property>
+    <Property Name="sonar.javascript.ignoreHeaderComments">true</Property>
+    <Property Name="sonar.dbcleaner.daysBeforeDeletingClosedIssues">30</Property>
+    <Property Name="sonar.jacoco.itReportPath">target/jacoco-it.exec</Property>
+    <Property Name="sonar.dbcleaner.weeksBeforeKeepingOnlyOneSnapshotByMonth">52</Property>
+    <Property Name="sonar.lf.gravatarServerUrl">https://secure.gravatar.com/avatar/{EMAIL_MD5}.jpg?s={SIZE}&amp;d=identicon</Property>
+    <Property Name="sonar.violationLocale">en</Property>
+    <Property Name="sonar.cs.fxcop.timeoutMinutes">10</Property>
+    <Property Name="sonar.cpd.css.minimumTokens">70</Property>
+    <Property Name="sonar.squid.analyse.property.accessors">true</Property>
+    <Property Name="sonar.jacoco.reportPath">target/jacoco.exec</Property>
+    <Property Name="sonaranalyzer-cs.staticResourceName">SonarAnalyzer.zip</Property>
+    <Property Name="sonar.notifications.runningDelayBeforeReportingStatus">600</Property>
+    <Property Name="sonar.defaultGroup">sonar-users</Property>
+    <Property Name="sonaranalyzer-cs.nuget.packageId">SonarAnalyzer.CSharp</Property>
+    <Property Name="sonar.authenticator.downcase">false</Property>
+    <Property Name="sonar.updatecenter.activate">true</Property>
+    <Property Name="sonar.pdf.issueDetails">NONE</Property>
+    <Property Name="sonar.css.embedded.file.suffixes">html,xhtml</Property>
+    <Property Name="sonaranalyzer-cs.analyzerId">SonarAnalyzer.CSharp</Property>
+    <Property Name="sonar.technicalDebt.hoursInDay">8</Property>
+    <Property Name="sonar.technicalDebt.ratingGrid">0.05,0.1,0.2,0.5</Property>
+    <Property Name="sonar.technicalDebt.developmentCost">30</Property>
+    <Property Name="sonar.lf.enableGravatar">true</Property>
+    <Property Name="sonar.preview.excludePlugins">buildstability,devcockpit,pdfreport,report,views,jira,buildbreaker,scmstats</Property>
+    <Property Name="sonaranalyzer-cs.pluginVersion">1.10.0</Property>
+    <Property Name="sonar.cs.file.suffixes">.cs</Property>
+    <Property Name="sonar.security.localUsers">admin</Property>
+    <Property Name="sonar.skipDesign">false</Property>
+    <Property Name="sonar.javascript.file.suffixes">.js</Property>
+    <Property Name="sonar.pdf.skip">false</Property>
+    <Property Name="sonar.java.file.suffixes">.java,.jav</Property>
+    <Property Name="sonar.javascript.forceZeroCoverage">false</Property>
+    <Property Name="sonar.dbcleaner.weeksBeforeDeletingAllSnapshots">260</Property>
+    <Property Name="sonar.jacoco.reportMissing.force.zero">false</Property>
+    <Property Name="sonar.updatecenter.url">https://update.sonarsource.org/update-center.properties</Property>
+    <Property Name="sonar.msbuild.testProjectPattern">[^\\]*test[^\\]*$</Property>
+  </ServerSettings>
+  <LocalSettings />
+  <AnalyzersSettings>
+    <AnalyzerSettings>
+      <Language>cs</Language>
+      <RuleSetFilePath>C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\.sonarqube\conf\SonarQubeRoslyn-cs.ruleset</RuleSetFilePath>
+      <TestProjectRuleSetFilePath>C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\.sonarqube\conf\SonarQubeRoslyn-cs-test.ruleset</TestProjectRuleSetFilePath>
+      <AnalyzerPlugins>
+        <AnalyzerPlugin Key="csharp" Version="1.10.0" StaticResourceName="SonarAnalyzer.zip">
+          <AssemblyPaths>
+            <Path>C:\Users\siddharthcha\AppData\Local\Temp\.sonarqube\resources\0\SonarAnalyzer.CSharp.dll</Path>
+            <Path>C:\Users\siddharthcha\AppData\Local\Temp\.sonarqube\resources\0\SonarAnalyzer.dll</Path>
+          </AssemblyPaths>
+        </AnalyzerPlugin>
+      </AnalyzerPlugins>
+      <AdditionalFilePaths>
+        <Path>C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\.sonarqube\conf\cs\SonarLint.xml</Path>
+      </AdditionalFilePaths>
+    </AnalyzerSettings>
+  </AnalyzersSettings>
+</AnalysisConfig>

@@ -1,0 +1,28 @@
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\DataBase.Repository.dll.config
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\DataBase.Repository.dll
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\DataBase.Repository.pdb
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\DataBase.Model.dll
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\EntityFramework.dll
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\DataBase.Model.pdb
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\EntityFramework.xml
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataBase.Repository\obj\Debug\DataBase.Repository.csprojAssemblyReference.cache
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataBase.Repository\obj\Debug\DataBase.Repository.csproj.CoreCompileInputs.cache
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataBase.Repository\obj\Debug\DataBase.Repository.csproj.CopyComplete
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataBase.Repository\obj\Debug\DataBase.Repository.dll
+D:\Bhargav_DOTNET_DEC_2020\project2\dotnet project\MovieNex\MovieNex\DataBase.Repository\obj\Debug\DataBase.Repository.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\DataBase.Repository.dll.config
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\DataBase.Repository.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\DataBase.Repository.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\DataBase.Model.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\EntityFramework.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\DataBase.Model.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\EntityFramework.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataBase.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataBase.Repository\obj\Debug\DataBase.Repository.csprojAssemblyReference.cache
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataBase.Repository\obj\Debug\DataBase.Repository.csproj.CoreCompileInputs.cache
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataBase.Repository\obj\Debug\DataBase.Repository.csproj.CopyComplete
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataBase.Repository\obj\Debug\DataBase.Repository.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 2\project\dotnet project\MovieNex\MovieNex\DataBase.Repository\obj\Debug\DataBase.Repository.pdb

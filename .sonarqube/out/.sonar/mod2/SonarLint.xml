@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalysisInput>
+  <Settings>
+    <Setting>
+      <Key>sonar.cs.ignoreHeaderComments</Key>
+      <Value>true</Value>
+    </Setting>
+  </Settings>
+  <Rules>
+  </Rules>
+  <Files>
+    <File>C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\DataAccessLayer\AdminOps.cs</File>
+    <File>C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\DataAccessLayer\Menu.cs</File>
+    <File>C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\DataAccessLayer\PersonOps.cs</File>
+    <File>C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\DataAccessLayer\Properties\AssemblyInfo.cs</File>
+    <File>C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\DataAccessLayer\UserOps.cs</File>
+    <File>C:\Users\siddharthcha\source\repos\MovieNex\MovieNex\DataAccessLayer\UtilityClass.cs</File>
+  </Files>
+</AnalysisInput>
